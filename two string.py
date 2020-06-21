@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import sys
 n=int(input())
 a=[input() for i in range(2*n)]
@@ -11,6 +12,8 @@ while i<=(2*n-2):
     else:
         print("NO")
 =======
+=======
+>>>>>>> 89681f03ca62287f384f2aab4787ea9061b931f8
 import sys
 n=int(input())
 a=[input() for i in range(2*n)]
@@ -22,5 +25,8 @@ while i<=(2*n-2):
             break
     else:
         print("NO")
+<<<<<<< HEAD
 >>>>>>> 51e3700... master
+=======
+>>>>>>> 89681f03ca62287f384f2aab4787ea9061b931f8
     i+=2

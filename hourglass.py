@@ -1,4 +1,4 @@
-n= [list(map(int,input().split())) for i in range(6)]
+n= [list(map(int,input().split())) for i in range(6)] #for loop for input of matrix
 s=[]
 for i in range(4):
     for j in range(4):
