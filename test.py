@@ -1,3 +1,7 @@
-n,k,p= map(int,input().split())
-a=[list(map(int,input().split())) for _ in range(n)]
-print(max(a))
+t = int(input())
+for _ in range(t):
+    a = input()
+    b = 0
+    for i in a:
+        b += int(i)
+    print(b)
